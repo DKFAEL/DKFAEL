@@ -1,5 +1,6 @@
 <div align="center">
-<h2> Seja bem vindo!</h2>
+<h2> BE WELCOME!</h2>
+<h3>I am a Full-Stack student by SoulCode </h3>
 </div>
 </br>
 <div align="center">
