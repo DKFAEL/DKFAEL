@@ -11,6 +11,9 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DKFAEL&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     </div>
 </br>
+<div align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DKFAEL&layout=compact&langs_count=7&theme=dark"/>
+</div>
  <div align="center">
  <p> Skills:</p>
 <div style="display: inline_block"><br>
