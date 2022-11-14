@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SpringBoot**
 
-- ⚡ Fun fact **i loved trading/td-esportivo  and animes 😜**
+- ⚡ Fun fact I like programming and trading/td-esportivo😜**
 
 
 
