@@ -4,8 +4,6 @@
 
 - 🔥 I am a Full-Stack student by SoulCode  
 
--🌱 I'm currently learning Angular/SpringBoot
-
 - 💬 Ask me about **JavaScript, HTML, CSS, SpringBoot**
 
 - ⚡ Fun fact I like programming and trading/td-esportivo😜**
@@ -22,10 +20,14 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Angular](https://img.shields.io/badge/-Angular-05122A?style=flat&logo=angular)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
+![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)&nbsp;
+![IntelliJ](https://img.shields.io/badge/-intellij-05122A?style=flat&logo=intellij)&nbsp;
 
 <br><br>
 
