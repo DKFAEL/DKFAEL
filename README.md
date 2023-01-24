@@ -2,7 +2,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rafael Nunes</h1>
 
 
-- 🔥 I am a Full-Stack student by SoulCode  
+- 🔥 I am Desenvolvedor Full Stack   
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SpringBoot**
 
