@@ -7,7 +7,7 @@
 - ⚡ Fun fact I like programmiºng and trading/td-esportivo 😄
 
 
-   -  - - - - - - - - - - - - - - - - 
+ -  - - - - - - - - - - - - - - - - 
                
 
 - 🔥 sou um desenvolvedor fullstack, gosto de desafios que me proporcione a estar sempre melhorando, para assim poder estar desenvolvendo aplicações de otima qualidade.  
