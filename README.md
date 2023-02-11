@@ -2,11 +2,14 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rafael Nunes</h1>
 
 
-- 🔥 I am Desenvolvedor Full Stack   
+- 🔥 I'm a fullstack developer, I like challenges that allow me to be always improving, so I'm developing high quality applications.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SpringBoot**
+- ⚡ Fun fact I like programming and trading/td-esportivo**
 
-- ⚡ Fun fact I like programming and trading/td-esportivo😜**
+
+- 🔥 sou um desenvolvedor fullstack, gosto de desafios que me proporcione a estar sempre melhorando, passa asim estar desenvolvendo aplicações de otima qualidade.  
+
+- ⚡ Curiosidade, eu gosto de programar e trade/td-esportivo**
 
 
 
