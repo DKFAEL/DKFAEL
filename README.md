@@ -4,7 +4,7 @@
 
 - 🔥 I'm a fullstack developer, I like challenges that allow me to be always improving, so I can be developing high quality applications.
 
-- ⚡ Fun fact I like programmiºng and trading/td-esportivo 😄
+- ⚡ Fun fact I like programmiºng and soccer😄
 
 
   -  - - - - - - - - - - - - - - - - 
