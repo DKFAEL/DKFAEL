@@ -12,7 +12,7 @@
 
 - 🔥 sou um desenvolvedor fullstack, gosto de desafios que me proporcione a estar sempre melhorando, para assim poder estar desenvolvendo aplicações de otima qualidade.  
 
-- ⚡ Curiosidade, eu gosto de programar e trade/td-esportivo 😄
+- ⚡ Curiosidade, eu gosto de programar e futebol 😄
 
 
 
