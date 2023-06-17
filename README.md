@@ -31,7 +31,7 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=Firebase)&nbsp;
 ![Java](https://img.shields.io/badge/-java-05122A?style=flat&logo=java)&nbsp;
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&logo=springboot)&nbsp;
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![MySQL](https://img.sields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![Postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/-intellij-05122A?style=flat&logo=intellij)&nbsp;
 
@@ -52,9 +52,6 @@
 <p align="left" style="background:yellow">
 <a href="https://www.linkedin.com/in/rafael-nunes-a7854a250/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/dk_fael/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
 
